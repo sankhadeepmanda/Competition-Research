@@ -300,6 +300,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**Dravin Kumar Sharma**
+**Sankhadeep Mandal**
 
 ---
